@@ -2,6 +2,7 @@
 
 ## About Me ⬇️
 I'm a Web Developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+Every day more passionate about Nodejs and Reactjs.💗
 
 ## Current Stack ⚡️
 - Main Language: `Javascript`
