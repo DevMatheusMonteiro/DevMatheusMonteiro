@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Matheus Monteiro 👋
 
-<!--
-**DevMatheusMonteiro/DevMatheusMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ⬇️
+I'm a Web Developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+## Current Stack ⚡️
+- Main Language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version Code Control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+- I'm mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 🌐
+- Email: carlosmathmonteiro@gmail.com
+- Linkedin: [linkedin.com/in/matheus-monteiro-2b1056183/](https://www.linkedin.com/in/matheus-monteiro-2b1056183/)
