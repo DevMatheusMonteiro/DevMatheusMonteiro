@@ -1,7 +1,7 @@
 # Hi there, I'm Matheus Monteiro 👋
 
 ## About Me ⬇️
-I'm a Web Developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
+I'm a Web Developer. I'm studying Systems Analysis and Development at [Infnet](https://www.infnet.edu.br/infnet/instituto/).
 
 Every day more passionate about Nodejs and Reactjs.💗
 
