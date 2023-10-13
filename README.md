@@ -12,7 +12,6 @@ Every day more passionate about Nodejs and Reactjs.💗
 - Layout Design: `Figma`
 - Version Code Control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
-- I'm mostly active within the `Rocketseat Community`
 
 ## Contact 🌐
 - Email: carlosmathmonteiro@gmail.com
