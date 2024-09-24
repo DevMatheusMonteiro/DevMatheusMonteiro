@@ -8,7 +8,7 @@ I'm a Web Developer. I'm studying Systems Analysis and Development at [Infnet](h
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
 - Version Code Control: `Git & Github`
-- Tools: `VsCode`, `Markdown`
+- Tools: `VsCode`, `Visual Studio`, `IntelliJ`
 
 ## Contact 🌐
 - Email: carlosmathmonteiro@gmail.com
