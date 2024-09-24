@@ -3,11 +3,8 @@
 ## About Me ⬇️
 I'm a Web Developer. I'm studying Systems Analysis and Development at [Infnet](https://www.infnet.edu.br/infnet/instituto/).
 
-Every day more passionate about Nodejs and Reactjs.💗
-
 ## Current Stack ⚡️
-- Main Language: `Javascript`
-- Backend: `Nodejs`
+- Backend: `Nodejs`, `Java`, `C#`, `Spring Boot`, `.NET`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
 - Version Code Control: `Git & Github`
