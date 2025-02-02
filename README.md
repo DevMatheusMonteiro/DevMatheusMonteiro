@@ -4,7 +4,7 @@
 I'm a Web Developer. I'm studying Systems Analysis and Development at [Infnet](https://www.infnet.edu.br/infnet/instituto/).
 
 ## Current Stack ⚡️
-- Backend: `Nodejs`, `Java`, `C#`, `Spring Boot`, `.NET`
+- Backend: `Nodejs`, `Java`, `C#`, `Spring Boot`, `.NET`, `Python`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
 - Version Code Control: `Git & Github`
