@@ -1,7 +1,7 @@
 # Hi there, I'm Matheus Monteiro 👋
 
 ## About Me ⬇️
-I'm a Web Developer. I'm studying Systems Analysis and Development at [Infnet](https://www.infnet.edu.br/infnet/instituto/).
+I'm a Developer. I'm studying Systems Analysis and Development at [Infnet](https://www.infnet.edu.br/infnet/instituto/).
 
 ## Current Stack ⚡️
 - Backend: `Nodejs`, `Java`, `C#`, `Spring Boot`, `.NET`, `Python`
